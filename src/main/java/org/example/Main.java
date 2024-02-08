@@ -56,5 +56,8 @@ public class Main {
                 .distinct()
                 .toList();
         students.forEach(student -> System.out.println(student));
+    School school = new School("School of Tunis", 100);
+       System.out.println(school);
     }
+
 }
