@@ -1,29 +1,30 @@
 
 }
-java:S1192&"`Define a constant instead of duplicating this literal "src/main/resources/students.csv" 3 times.(Ñ÷à8×şª¡Ø1
+java:S1192&"`Define a constant instead of duplicating this literal "src/main/resources/students.csv" 3 times.(Ñ÷à8Íõ×ÀØ1
 a
-java:S2095+"DUse try-with-resources or close this "Stream" in a "finally" clause.(Ñ÷à8“­¡Ø1
+java:S2095+"DUse try-with-resources or close this "Stream" in a "finally" clause.(Ñ÷à8Ğ“ØÀØ1
 a
-java:S2095&"DUse try-with-resources or close this "Stream" in a "finally" clause.(Ñ÷à8“­¡Ø1
+java:S2095&"DUse try-with-resources or close this "Stream" in a "finally" clause.(Ñ÷à8Ğ“ØÀØ1
 f
-java:S20951"DUse try-with-resources or close this "Stream" in a "finally" clause.(¤¢‘Ÿøÿÿÿÿ8“­¡Ø1
-G	java:S106"+Replace this use of System.out by a logger.(ŞÒ©Ø8çşª¡Ø1
-G	java:S106"+Replace this use of System.out by a logger.(Êß¥ñ8çşª¡Ø1
-G	java:S106"+Replace this use of System.out by a logger.(ş·‘Ã8èşª¡Ø1
+java:S20951"DUse try-with-resources or close this "Stream" in a "finally" clause.(¤¢‘Ÿøÿÿÿÿ8Ğ“ØÀØ1
+G	java:S106"+Replace this use of System.out by a logger.(ŞÒ©Ø8Ôõ×ÀØ1
+G	java:S106"+Replace this use of System.out by a logger.(Êß¥ñ8Öõ×ÀØ1
+G	java:S106"+Replace this use of System.out by a logger.(ş·‘Ã8Öõ×ÀØ1
 b
-java:S1612"@Replace this lambda with method reference 'System.out::println'.(Ù÷ÚÇÿÿÿÿÿ8èşª¡Ø1
-L	java:S106"+Replace this use of System.out by a logger.(Ù÷ÚÇÿÿÿÿÿ8èşª¡Ø1
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Ù÷ÚÇÿÿÿÿÿ8×õ×ÀØ1
+L	java:S106"+Replace this use of System.out by a logger.(Ù÷ÚÇÿÿÿÿÿ8Øõ×ÀØ1
 o
-java:S6204!"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8èşª¡Ø1
-L	java:S106""+Replace this use of System.out by a logger.(×äŒùÿÿÿÿ8èşª¡Ø1
+java:S6204!"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Øõ×ÀØ1
+L	java:S106""+Replace this use of System.out by a logger.(×äŒùÿÿÿÿ8Ùõ×ÀØ1
 \
-java:S1612'"@Replace this lambda with method reference 'System.out::println'.(ç¯ÃP8éşª¡Ø1
-F	java:S106'"+Replace this use of System.out by a logger.(ç¯ÃP8éşª¡Ø1
-L	java:S106)"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8éşª¡Ø1
-G	java:S106*"+Replace this use of System.out by a logger.(ŠÄâÛ8éşª¡Ø1
+java:S1612'"@Replace this lambda with method reference 'System.out::println'.(ç¯ÃP8Ùõ×ÀØ1
+F	java:S106'"+Replace this use of System.out by a logger.(ç¯ÃP8Úõ×ÀØ1
+L	java:S106)"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Úõ×ÀØ1
+G	java:S106*"+Replace this use of System.out by a logger.(ŠÄâÛ8Úõ×ÀØ1
 \
-java:S1612-"@Replace this lambda with method reference 'System.out::println'.(ç¯ÃP8éşª¡Ø1
-F	java:S106-"+Replace this use of System.out by a logger.(ç¯ÃP8éşª¡Ø1
+java:S1612-"@Replace this lambda with method reference 'System.out::println'.(ç¯ÃP8Ûõ×ÀØ1
+F	java:S106-"+Replace this use of System.out by a logger.(ç¯ÃP8Üõ×ÀØ1
 ]
-java:S1612:"@Replace this lambda with method reference 'System.out::println'.(³§ËĞ8ëşª¡Ø1
-G	java:S106:"+Replace this use of System.out by a logger.(³§ËĞ8ëşª¡Ø1
+java:S1612:"@Replace this lambda with method reference 'System.out::println'.(³§ËĞ8ßõ×ÀØ1
+G	java:S106:"+Replace this use of System.out by a logger.(³§ËĞ8ßõ×ÀØ1
+L	java:S106<"+Replace this use of System.out by a logger.(åçÃÿøÿÿÿÿ8ßõ×ÀØ1
